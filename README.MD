@@ -1,0 +1,2 @@
+# ESP32 Doorbell
+Uses the button on the TTGO T-Camera to trigger a message to your phone via a IFTTT notification. Also trigger notification on movement via the AS312 sensor, prompting you to check the built-in portal
